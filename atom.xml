@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>小方方的技术Blog</title>
+  <title>九纹龙的技术Blog</title>
   
   <subtitle>一直在路上，学习、交流、成长.</subtitle>
   <link href="/xffblogs.io/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://fwenrong.github.io/xffblogs.io/</id>
   
   <author>
-    <name>Wendy Fang</name>
+    <name>九纹龙</name>
     
   </author>
   
